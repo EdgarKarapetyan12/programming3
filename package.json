@@ -1,0 +1,22 @@
+{
+  "name": "programming3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdgarKarapetyan12/programming3.git"
+  },
+  "author": "Edgar Karapetyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdgarKarapetyan12/programming3/issues"
+  },
+  "homepage": "https://github.com/EdgarKarapetyan12/programming3#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
